@@ -1,0 +1,17 @@
+***********************************************************************
+**                                                                   **
+**                   PHP Calendar System - 1.0.0                     **
+**                                                                   **
+***********************************************************************
+
+Discription
+***********************************************************************
+PHP Calendar System allows you to easily manage all your calendar needs.
+You can create events, multiple calendars, multiple users, and more.
+
+Requirements
+***********************************************************************
+  - PHP 5.3+
+  - MySQL 5.2+
+  - jQuery 2.0.0+
+  - jQuery UI 1.10.3+
